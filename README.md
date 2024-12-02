@@ -50,7 +50,7 @@ Estos conjuntos de datos se combinan en un único DataFrame con una característ
 
 ## Licencia
 
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto se distribuye bajo la Licencia MIT.
 
 
 # MLOps_vino-Project
