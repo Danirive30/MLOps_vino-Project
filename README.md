@@ -1,5 +1,5 @@
 
-# Ejemplo de Machine Learning de Extremo a Extremo: Predicción de la Calidad del Vino
+# Machine Learning de Extremo a Extremo: Predicción de la Calidad del Vino
 
 Este repositorio contiene un Jupyter Notebook que demuestra un **ejemplo de extremo a extremo** para entrenar modelos de machine learning utilizando datos tabulares. El proyecto se centra en predecir la calidad del vino portugués "Vinho Verde" en función de sus propiedades fisicoquímicas.
 
